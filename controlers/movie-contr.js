@@ -69,7 +69,7 @@ movieRouter.get('/:id', async (req, res) => {
 
 
            let gaga = test[i].user = user
-            console.log(gaga);
+          
 
         }
             
